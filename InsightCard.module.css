@@ -1,0 +1,24 @@
+.card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 14px;
+  padding: 1.25rem 1.5rem;
+}
+
+.label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #aaa;
+  margin-bottom: 8px;
+}
+
+.text {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.neutral { color: #333; }
+.warn    { color: #c0392b; }
+.good    { color: #27ae60; }
